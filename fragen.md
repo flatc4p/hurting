@@ -6,3 +6,4 @@
 - Als du im Dezember 2023 vorgeschlagen hast, dass wir versuchen sollen schwanger zu werden und wir mehrmals das Kondom weggelassen haben, lag das daran, dass dir vorher was mit David passiert war und du dich absichern wolltest, für den Fall, dass du von ihm schwanger wirst
 - Hast du deshalb aufgehört Chinesisch zu lernen und mit französisch angefangen, weil David auch französisch spricht?
 - Hast du die ganze neue UnterwĂ€sche immer für David gekauft?
+- Wie oft hattest du noch Kontakt mit David, nachdem du schon mit Lars geschlafen hast und wusste David von Lars?
