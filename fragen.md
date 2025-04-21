@@ -8,3 +8,4 @@
 - Hast du die ganze neue Unterwäsche immer für David gekauft?
 - Wie oft hattest du noch Kontakt mit David, nachdem du schon mit Lars geschlafen hast und wusste David von Lars?
 - Was hat Lars dazu gemeint, dass du weiterhin mit mir UND David zusammen bist??
+- Was zur Hölle hast du dir gedacht, als du mein Geburtstagsgeschenk zusammengestellt hast, während du mit Lars geschlafen hast??
