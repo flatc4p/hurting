@@ -22,3 +22,4 @@
 - Als du mir vorgeschlagen hast, dass wir uns ein Partnertattoo stechen lassen können, während du mich schon betrogen hast, wolltest du mich damit einfach nur demütigen?
 - Wann hattest du das letzte Mal Kontakt zu David?
 - Wann hattest du das letzte Mal Kontakt zu Lars?
+- Wolltest du deshalb eine Bahncard 100 kaufen, damit du regelmäßig zu Lars und David fahren kannst?
