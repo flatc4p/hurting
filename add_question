@@ -3,7 +3,7 @@
 # using fragen.md as hard-coded file name
 # it still hurts so fucking much :<
 
-FILE=fragen2.md
+FILE=fragen.md
 
 if [ $# -eq 0 ]; then
     echo "ERROR: need to pass questions as argument"

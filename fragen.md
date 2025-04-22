@@ -16,3 +16,4 @@
 - Wer wusste alles von dir und David?
 - Wer wusste alles von dir und Lars?
 - Wie viel von deinen erotischen Kurzgeschichten war von David und dir inspiriert?
+- Bist du wenigstens froh, dass dein Opa die Wahrheit nicht mehr erfahren hat? Was hast du dir gedacht, als du mit mir auf seiner Beerdigung standest? Warst du danach wieder bei David, damit er dich auch trösten kann? Hast du einfach keinen Funken Moral oder Anstand?
