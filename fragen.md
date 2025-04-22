@@ -20,3 +20,4 @@
 - Mit wem hast du mich noch betrogen?
 - War der Typ, der dich nach der Kinky-Party angeschrieben hat: war das nach einer Party, wo du ohne mich warst?
 - Als du mir vorgeschlagen hast, dass wir uns ein Partnertattoo stechen lassen können, während du mich schon betrogen hast, wolltest du mich damit einfach nur demütigen?
+- Wann hattest du das letzte Mal Kontakt zu David?
