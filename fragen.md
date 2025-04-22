@@ -18,3 +18,4 @@
 - Wie viel von deinen erotischen Kurzgeschichten war von David und dir inspiriert?
 - Bist du wenigstens froh, dass dein Opa die Wahrheit nicht mehr erfahren hat? Was hast du dir gedacht, als du mit mir auf seiner Beerdigung standest? Warst du danach wieder bei David, damit er dich auch trösten kann? Hast du einfach keinen Funken Moral oder Anstand?
 - Mit wem hast du mich noch betrogen?
+- War der Typ, der dich nach der Kinky-Party angeschrieben hat: war das nach einer Party, wo du ohne mich warst?
