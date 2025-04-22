@@ -15,3 +15,4 @@
 - Warum hast du dich nicht einfach von mir getrennt?
 - Wer wusste alles von dir und David?
 - Wer wusste alles von dir und Lars?
+- Wie viel von deinen erotischen Kurzgeschichten war von David und dir inspiriert?
