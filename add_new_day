@@ -1,0 +1,12 @@
+#!/usr/bin/zsh
+# adds a new day to specified file in argument (if passed file exists)
+# format of date added is an empty line followed by a markdown compatible subsection header with today's date in dd.mm.yyyy format
+
+FILE=$1
+
+if [ -f $FILE ]; then
+    echo "" >> $FILE
+    echo "##" `date +%d.%m.%Y` >> $FILE
+else
+    echo "ERROR: file" $FILE "not found"
+fi
