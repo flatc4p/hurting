@@ -1,0 +1,16 @@
+#!/usr/bin/zsh
+# adds a new question D:
+# using fragen.md as hard-coded file name
+# it still hurts so fucking much :<
+
+FILE=fragen2.md
+
+if [ $# -eq 0 ]; then
+    echo "ERROR: need to pass questions as argument"
+else
+    if [ -f $FILE ]; then
+        echo "- "$1 >> $FILE
+    else
+        echo "ERROR: file" $FILE "not found"
+    fi
+fi
