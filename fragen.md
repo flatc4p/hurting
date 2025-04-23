@@ -23,3 +23,6 @@
 - Wann hattest du das letzte Mal Kontakt zu David?
 - Wann hattest du das letzte Mal Kontakt zu Lars?
 - Wolltest du deshalb eine Bahncard 100 kaufen, damit du regelmäßig zu Lars und David fahren kannst?
+
+## 23.04.2025
+- Hast du einen der anderen wirklich geliebt? Kein 'ich hatte Gefühle' oder 'sie waren für mich da als ich sie gebraucht habe', sonder wirklich geliebt?
