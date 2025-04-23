@@ -25,4 +25,5 @@
 - Wolltest du deshalb eine Bahncard 100 kaufen, damit du regelmäßig zu Lars und David fahren kannst?
 
 ## 23.04.2025
-- Hast du einen der anderen wirklich geliebt? Kein 'ich hatte Gefühle' oder 'sie waren für mich da als ich sie gebraucht habe', sonder wirklich geliebt?
+- Hast du einen der anderen wirklich geliebt? Kein 'ich hatte Gefühle' oder 'sie waren für mich da als ich sie gebraucht habe', soern wirklich geliebt?
+- Wolltest du mich aktiv verletzen oder für irgendetwas bestrafen?
