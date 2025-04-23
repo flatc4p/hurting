@@ -10,6 +10,7 @@ if [ $# -eq 0 ]; then
 else
     if [ -f $FILE ]; then
         echo "- "$1 >> $FILE
+        git add $FILE && git commit -m "script commit ;-;"
     else
         echo "ERROR: file" $FILE "not found"
     fi
