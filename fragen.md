@@ -31,3 +31,4 @@
 ## 04.05.2025
 - Warum kannst du jetzt für Lars da sein, für seine Schwester, aber mich hattest du abgeschrieben, so lange schon
 - Wenn du ehrlich bist: findest du es gerechtfertigt, was du gemacht hast? Alles in deiner Kommunikation klingt als wärst du jetzt noch der Meinung du hättest gar nicht anders handeln können
+- Womit denkst du hast du mich jetzt eigentlich noch verdient?
