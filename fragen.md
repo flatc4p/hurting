@@ -27,3 +27,6 @@
 ## 23.04.2025
 - Hast du einen der anderen wirklich geliebt? Kein 'ich hatte Gefühle' oder 'sie waren für mich da als ich sie gebraucht habe', nderrn wirklich geliebt?
 - Wolltest du mich aktiv verletzen oder für irgendetwas bestrafen?
+
+## 04.05.2025
+- Warum kannst du jetzt für Lars da sein, für seine Schwester, aber mich hattest du abgeschrieben, so lange schon
